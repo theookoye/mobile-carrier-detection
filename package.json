@@ -1,6 +1,6 @@
 {
   "name": "mobile-carrier-detection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,7 +12,13 @@
     "type": "git",
     "url": "https://github.com/theookoye/mobile-carrier-detection.git"
   },
-  "keywords": ["mobile", "carrier", "detection", "ZA", "South Africa"],
+  "keywords": [
+    "mobile",
+    "carrier",
+    "detection",
+    "ZA",
+    "South Africa"
+  ],
   "author": "Theophilus Chidiebere Okoye",
   "license": "MIT",
   "description": "",
