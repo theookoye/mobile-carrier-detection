@@ -35,7 +35,7 @@ Telkom Mobile \
 Lycamobile SA \
 Virgin Mobile \
 Rain \
-Toll-free, Premium-rate, and other service numbers \
+Toll-free, Premium-rate, and other service numbers
 
 
 ## License
