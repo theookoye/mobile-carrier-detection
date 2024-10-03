@@ -8,7 +8,11 @@
     "clean": "rm -rf dist",
     "prepare": "npm run build"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theookoye/mobile-carrier-detection.git"
+  },
+  "keywords": ["mobile", "carrier", "detection", "ZA", "South Africa"],
   "author": "Theophilus Chidiebere Okoye",
   "license": "MIT",
   "description": "",
